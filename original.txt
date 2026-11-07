@@ -2,5 +2,5 @@ Hello Linux
 I'm learning bash
 I'm learning Git
 I'm learning Linux
-This is changed by MASTER
+This is changed by MASTER TEST
 This change is only master branch
